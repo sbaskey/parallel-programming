@@ -1,0 +1,17 @@
+
+time taken for execution=0.000372 
+iters: 10 val: 3.02
+time taken for execution=0.000415 
+iters: 10 val: 3.02
+time taken for execution=0.000418 
+iters: 10 val: 3.02
+time taken for execution=0.000297 
+iters: 10 val: 3.02
+time taken for execution=0.191719 
+iters: 1000000 val: 3.14
+time taken for execution=0.228285 
+iters: 1000000 val: 3.14
+time taken for execution=0.217513 
+iters: 1000000 val: 3.14
+time taken for execution=0.200324 
+iters: 1000000 val: 3.14
