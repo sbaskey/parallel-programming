@@ -1,2 +1,4 @@
-welcome 
+welcome to text editor
 baskey
+now iam able to delete the characters
+iam only able to enter the character to thr editor
